@@ -4,7 +4,7 @@ One Paragraph of project description goes here
 
 ## Getting Started
 
-Each Week Folder contains the question list and their solutions.
+Each Week Folder contains the question list and their solutions. Screenshots of essential ideas, or key concepts are also added.
 
 ### Prerequisites
 
@@ -26,7 +26,7 @@ Look into the pdf to the corresponding question for its respective inputs and ou
 
 ## Authors
 
-* **Chandrahas Aroori** - *Initial work* - [PurpleBooth](https://github.com/Exorust)
+* **Chandrahas Aroori** - *Initial work* - [Exorust](https://github.com/Exorust)
 
 ## License
 
