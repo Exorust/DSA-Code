@@ -47,7 +47,7 @@ To find the runtime of a program:
 $ time [prog]
 ```
 
-##DISCLAIMER
+## DISCLAIMER
 
 The author is not responsible for who uses his code in what manner. This code is free.
 But if used in wrong ways the author is not responsible.
