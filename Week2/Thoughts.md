@@ -7,8 +7,8 @@ Questions
 4. Print number in words : Easy
 5. Sparse Matrix : Medium
 6. Item Market : Medium
-7. Railkey Cipher : Hard
-8. Prime Factorization : Very Hard
+<!-- 7. Railkey Cipher : Hard -->
+<!-- 8. Prime Factorization : Very Hard -->
 9. Lucky Digit : Hard
 10. Distinct digits : Very Hard
 11. Array Swap : VV Hard

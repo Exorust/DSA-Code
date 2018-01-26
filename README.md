@@ -34,11 +34,18 @@ For seeing segfaults use
 $ gdb name.out core
 ```
 
+Look into the pdf to the corresponding question for its respective inputs and outputs.
+
+## Extra Info
+
 For configuration for segfault errors see https://www.linuxquestions.org/questions/blog/rtmistler-575248/debugging-c-programs-using-gdb-including-core-dumps-36826/
 
 For how to use gdb refer here: http://web.eecs.umich.edu/~sugih/pointers/summary.html
 
-Look into the pdf to the corresponding question for its respective inputs and outputs.
+To find the runtime of a program:
+```
+$ time [prog]
+```
 
 ##DISCLAIMER
 
