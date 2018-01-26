@@ -71,18 +71,20 @@ int main(int argc, char const *argv[]) {
   int digit_total = digitcount(num);
   long long unsigned total=0;
   int digits;
+
   for(digits=1;digits<=digit_total;digits++) {
     long long unsigned temp1 = gen(1,digits);
     long long unsigned temp2 = gen(7,digits);
     long long unsigned temp3 = gen(9,digits);
     long long unsigned temp;
     int equals =0;
+
     if (is_lucky(num) == 1) {
       temp = num;
       equals = 1;
     }
     else {
-      if (temp3>num) {
+      if (temp3 > num) {
         if(temp2>num) {
           if(temp1>num) {
             temp = temp1;
@@ -96,12 +98,14 @@ int main(int argc, char const *argv[]) {
         }
       }
     }
+
     while(equals ==0) {
       temp--;
       if(is_lucky(temp) == 1) {
         equals = 1;
       }
     }
+
     long long unsigned ternary_no = digit_replace(temp);
     long long unsigned decimals = convert_to_10(ternary_no);
     total += decimals;

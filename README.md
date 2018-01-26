@@ -1,6 +1,6 @@
 # DSA-Code
 
-Contains all the lab code for the DSA course offered at Bits Pilani Hyderabad Campus (BPHC). The code is segregated by their week of submission.
+Contains all the lab code for the DSA course offered at Bits Pilani Hyderabad Campus (BPHC) [CS F211] . The code is segregated by their week of submission.
 
 ## Getting Started
 

@@ -3,11 +3,14 @@
 
 int digitcount(long long unsigned num) {
   int count =0;
+  
   while(num != 0) {
     num /=10;
     count++;
   }
+
   return count;
+
 }
 
 int chop(int num,int a, int b) {
