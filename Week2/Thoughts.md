@@ -1,7 +1,7 @@
 Questions
 ---------
 
-1. 1,2,... : Very Hard
+<!-- 1. 1,2,... : Very Hard -->
 2. Credit Card : Easy, requires a bit of array manipulation
 3. Comment Remover : Medium
 4. Print number in words : Easy
@@ -11,7 +11,7 @@ Questions
 <!-- 8. Prime Factorization : Very Hard -->
 <!-- 9. Lucky Digit : Hard -->
 10. Distinct digits : Medium
-11. Array Swap : VV Hard   >>                 https://www.geeksforgeeks.org/sort-an-almost-sorted-array-where-only-two-elements-are-swapped/
+11. Array Swap : VV Hard/Easy?? *?Asked sir ?*  >>                 https://www.geeksforgeeks.org/sort-an-almost-sorted-array-where-only-two-elements-are-swapped/
 12. Sorted array with repetition : VV Hard   >>      https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/
 <!-- 13. Triplet with min distance : VV Hard >> https://www.geeksforgeeks.org/find-three-closest-elements-from-given-three-sorted-arrays/ -->
 14. Soundex one
