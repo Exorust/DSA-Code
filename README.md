@@ -4,7 +4,7 @@ Contains all the lab code for the DSA course offered at Bits Pilani Hyderabad Ca
 
 ## Getting Started
 
-Each Week Folder contains the question list and their solutions. Screenshots of essential ideas, or key concepts are also added.
+Each Week Folder contains the question list and their solutions. Screenshots of essential ideas, and key concepts are also added.
 
 
 ### Prerequisites
