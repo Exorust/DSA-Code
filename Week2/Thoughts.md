@@ -13,7 +13,7 @@ Questions
 10. Distinct digits : Medium
 11. Array Swap : VV Hard   >>                 https://www.geeksforgeeks.org/sort-an-almost-sorted-array-where-only-two-elements-are-swapped/
 12. Sorted array with repetition : VV Hard   >>      https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/
-13. Triplet with min distance : VV Hard >> https://www.geeksforgeeks.org/find-three-closest-elements-from-given-three-sorted-arrays/
+<!-- 13. Triplet with min distance : VV Hard >> https://www.geeksforgeeks.org/find-three-closest-elements-from-given-three-sorted-arrays/ -->
 14. Soundex one
 15. Middle Square method : Medium        *? Ask Sir what exactly constitutes as middle ?*
 <!-- 16. Spiral of 1 -> n^2 : Hard             https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/ -->
