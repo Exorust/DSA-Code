@@ -17,7 +17,7 @@ Questions
 14. Soundex one
 15. Middle Square method : Medium        *? Ask Sir what exactly constitutes as middle ?*
 <!-- 16. Spiral of 1 -> n^2 : Hard             https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/ -->
-17. Sum of Submatrix : VV Hard
-18. Phone key press : Medium
-19. Reverse phone key press : Hard
+17. Sum of Submatrix : VV Hard             *? VVIMP ?*
+<!-- 18. Phone key press : Medium
+19. Reverse phone key press : Hard -->
 20. Queen Attacking : Medium [ Occurs if i is same, j is same , i+j is same or i-j is same]
